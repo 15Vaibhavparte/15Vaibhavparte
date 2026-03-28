@@ -16,8 +16,7 @@ Dedicated to building robust cloud infrastructure and automation. I'm currently 
 * 🎓 Pursuing a degree in Mechanical Engineering (Class of 2025), with a focused career trajectory in **Cloud Infrastructure, Automation, DevOps, and LLMOps**.
 * 📚 Currently grinding on my DevOps certification and leveling up my **Python** programming skills.
 * 💡 Actively exploring the intersection of operations and machine learning (MLOps/LLMOps).
-* 🏃‍♂️ Outside of tech: I'm an avid long-distance runner (currently training hard!) and a massive fan of Dragon Ball and Naruto Shippuden. 
-
+* 🏃‍♂️ Outside of tech: I'm an avid long-distance runner (currently training hard!).
 ---
 
 ### 🛠️ My Tech Stack & Tools
