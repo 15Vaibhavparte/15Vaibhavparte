@@ -66,7 +66,9 @@ Dedicated to building robust cloud infrastructure and automation. I'm currently 
 ---
 
 ### 📊 GitHub Stats
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=15Vaibhavparte&theme=tokyonight&area=true&hide_border=true" alt="Activity Graph" />
+</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=15Vaibhavparte&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
