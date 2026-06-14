@@ -24,25 +24,31 @@ Dedicated to building robust cloud infrastructure and automation. I'm currently 
 *Here are the technologies I am currently working with and learning:*
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  
-  <img src="https://img.shields.io/badge/Amazon_AWS-f69118?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Ansible-030000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
-
-  <img src="https://img.shields.io/badge/Jenkins-d24036?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
-  <img src="https://img.shields.io/badge/Nexus-00bd6b?style=for-the-badge&logo=sonatype&logoColor=white" alt="Nexus" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
-</p>
+   <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS"/>
+  <img src="https://img.icons8.com/color/48/circleci.png" alt="CircleCI"/>
+  <img src="https://img.icons8.com/color/48/kubernetes.png" alt="Kubernetes"/>
+  <img src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
+  <img src="https://img.icons8.com/color/48/google-cloud.png" alt="Google Cloud"/>
+  <img src="https://img.icons8.com/color/48/azure-1.png" alt="Azure"/>
+  <img src="https://img.icons8.com/color/48/bash.png" alt="Bash"/>
+  <img src="https://img.icons8.com/color/48/linux.png" alt="Linux"/>
+  <img src="https://img.icons8.com/color/48/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/nginx.png" alt="Nginx"/>
+  <img src="https://img.icons8.com/color/48/jenkins.png" alt="Jenkins"/>
+  <img src="https://img.icons8.com/color/48/terraform.png" alt="Terraform"/>
+  <img src="https://raw.githubusercontent.com/argoproj/argo-cd/master/docs/assets/argo.png" alt="ArgoCD" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/prometheus-app.png" alt="Prometheus"/>
+  <img src="https://img.icons8.com/color/48/grafana.png" alt="Grafana"/>
+  <img src="https://img.icons8.com/color/48/ansible.png" alt="Ansible"/>
+  <img src="https://img.icons8.com/color/48/bitbucket.png" alt="Bitbucket"/>
+  <img src="https://img.icons8.com/color/48/centos.png" alt="CentOS"/>
+  <img src="https://img.icons8.com/color/48/canva.png" alt="Canva"/>
+  <img src="https://img.icons8.com/color/48/confluence.png" alt="Confluence"/>
+  <img src="https://img.icons8.com/color/48/gitlab.png" alt="GitLab"/>
+  <img src="https://img.icons8.com/color/48/jira.png" alt="Jira"/>
+  <img src="https://img.icons8.com/color/48/red-hat.png" alt="RedHat"/>
+  <img src="https://img.icons8.com/color/48/tomcat.png" alt="Tomcat"/>
+  <img src="https://img.icons8.com/color/48/ubuntu.png" alt="Ubuntu"/>
 
 ---
 
